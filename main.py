@@ -23,6 +23,7 @@ except imaplib.IMAP4.error:
 my_mail.select('Inbox')
 
 # Search for emails from a specific sender
+# Sent email content to myself as a draft hence why user is used as email sender - change to relevant email sender
 status, email_ids = my_mail.search(None, 'FROM', user)
 
 if status == "OK" and email_ids:
