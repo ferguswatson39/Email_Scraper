@@ -6,4 +6,5 @@ this project converts the email body bellow
 
 into
 
-![image](https://github.com/user-attachments/assets/bb03b93b-4ea9-48a5-8398-731a8147d3af)
+![output 2](https://github.com/user-attachments/assets/96f740e6-6748-45d2-958a-7a5b3b24a8f4)
+
